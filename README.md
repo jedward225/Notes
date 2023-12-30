@@ -1,5 +1,8 @@
-  In order to keep up with the fast-changing AI world and grasp some basic info. of this field, I've attended several lectures as well as reports given by some experts and students/researchers. This repository acts as a notebook for me personally. About my motive for this sharing? Actually, this term, unfortunately, I lost some pages in my notebook, and thus it's a pity that I cannot review them any more. So I find it quite neccessary to post them online and keep trace of my notes. Meanwhile, I find it a great opportunity to share my notes here on Github.
+  In order to keep up with the fast-changing AI world and gain a foundational understanding in this domain, I have attended numerous lectures and presentations delivered by both seasoned experts and aspiring students/researchers this term. This repository serves as a personal compendium where I meticulously document my learning journey.
 
+  The rationale behind sharing this repository is actually an unfortunate mishap – some crucial pages from my notebook went missing in the mid-term. This incident underscored the importance of having a digital backup to ensure that such valuable insights are never lost again. Hence, I deemed it highly necessary to upload my notes online, creating a trackable record of my intellectual pursuits within AI.
+
+  Moreover, I firmly believe that sharing knowledge is not just practical but also incredibly rewarding. It fosters collaboration, promotes continuous learning, and allows others to benefit from my experiences and insights. Therefore, while this endeavor primarily serves as a safeguard against potential loss for me individually, it simultaneously opens up opportunities for communal growth and mutual enlightenment in the fascinating world of AI.
   And I'd like to recommend some platforms where I get access to these kinds of lectures&sharing:
 
 ·智源社区
