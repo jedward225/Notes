@@ -1,4 +1,4 @@
-  In order to keep up with the fast-changing AI world and grasp some basic info of this field, I've attended several lectures as well as reports given by some experts and students/researchers. This file acts as a notebook for me personally. This term, unfortunately, I lost some pages in my notebook. And I find it quite neccessary to update and keep trace of my notes. Meanwhile, I find it a great opportunity to share my notes here on Github.
+  In order to keep up with the fast-changing AI world and grasp some basic info. of this field, I've attended several lectures as well as reports given by some experts and students/researchers. This repository acts as a notebook for me personally. About my motive for this sharing? Actually, this term, unfortunately, I lost some pages in my notebook, and thus it's a pity that I cannot review them any more. So I find it quite neccessary to post them online and keep trace of my notes. Meanwhile, I find it a great opportunity to share my notes here on Github.
 
   And I'd like to recommend some platforms where I get access to these kinds of lectures&sharing:
 
